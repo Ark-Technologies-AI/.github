@@ -35,7 +35,6 @@
 
 **Complete done-for-you marketing automation platform that captures leads, books appointments, and grows reviews for small businesses—without extra staff**
 
-[ Quick Start](#quick-start) • [ Performance](#performance) • [ Usage](#usage) • [ Technical Details](#technical-details)
 
 </div>
 
