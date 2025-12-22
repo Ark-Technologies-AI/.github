@@ -2,7 +2,7 @@
   <img src="./ark-logo.png" alt="ARK Technologies Logo" width="400"/>
  
 
-# ARK Technologies - Enterprise Marketing Automation Platform
+# Ark Technologies - Enterprise Marketing Automation Platform
 
 <p><em>Complete Marketing Automation Platform That Reduces Client Concentration Risk</em></p>
 
