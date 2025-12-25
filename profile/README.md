@@ -17,11 +17,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-<!-- AI & ML -->
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-piccassol-FFD21E?style=for-the-badge)](https://huggingface.co/piccassol)
-[![Ollama](https://img.shields.io/badge/Ollama-piccassol-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/piccassol)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-
 <!-- Infrastructure -->
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
@@ -337,7 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Sales Inquiries**: sales@arktechnologies.ai
 - **Technical Support**: support@arktechnologies.ai  
 - **Enterprise Accounts**: enterprise@arktechnologies.ai
-- **Documentation**: [docs.arktechnologies.ai](https://docs.arktechnologies.ai)
+- **Documentation**: [docs.arktechnologies.ai](https://arktechnologies.ai/blog)
 - **Status Page**: [status.arktechnologies.ai](https://status.arktechnologies.ai)
 
 ---
@@ -346,6 +341,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Capture, Follow Up, and Book Customers—Without Extra Staff**
 
-[Get Free Automation Audit](https://arktechnologies.ai/audit) | [See How It Works](https://arktechnologies.ai/demo) | [View Pricing](https://arktechnologies.ai/pricing)
+[Get Free Automation Audit](https://arktechnologies.ai/audit) | [See How It Works](https://arktechnologies.ai/playground) | [View Pricing](https://arktechnologies.ai/pricing)
 
 </div>
