@@ -179,7 +179,7 @@ python apps/automation-engine/src/lead_discovery/contact_enrichment.py --company
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
-| **Frontend** | Next.js/React/TypeScript | Landing page and demo platforms |
+| **Frontend** | Next.js/React/TypeScript | Custom company dashboards, CRM UI's, Landing page for you business | 
 | **Automation Engine** | Python | Lead discovery and workflow automation |
 | **Database** | PostgreSQL + Redis | Managed database with caching |
 | **Email Infrastructure** | Arkmail | Self-hosted email delivery |
